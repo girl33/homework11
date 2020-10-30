@@ -116,7 +116,7 @@ img{
 
 
 
-@media (min-width: 576px){
+@media (min-width: 992px){
     .content{   
         display: grid;
         grid-gap: 10px;
